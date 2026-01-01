@@ -1,7 +1,7 @@
 {
   "name": "SUHO-MD",
   "version": "5.0.0",
-  "description": "Created By Sung Tech Official",
+  "description": "Created By IKHLAQ AHMED",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SUHO-MD",
