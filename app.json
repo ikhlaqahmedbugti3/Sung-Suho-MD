@@ -1,6 +1,6 @@
 {
   "name": "NOVA",
-  "description": "Powerful WhatsApp bot made by dev sung",
+  "description": "Powerful WhatsApp bot made by dev IKHLAQ AHMED",
   "logo": "https://files.catbox.moe/27ovis.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -11,7 +11,7 @@
       "required": true
     },
     "OWNER_NUM": {
-      "description": "Your WhatsApp number including country code (e.g., 263XXXXXXXX).",
+      "description": "Your WhatsApp number including country code (e.g., 923334104708).",
       "required": true
     },
     "PREFIX": {
